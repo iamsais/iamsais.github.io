@@ -11,11 +11,12 @@ title:            Sathish Kumar
 tagline:          'I am Sathish'
 description:      'My Personal Blog'
 url:              http://www.iamsais.com
-baseurl:          /
+baseurl:          /myblog-iamsais/
 
 author:
   name:           'Sathish'
   url:            https://twitter.com/iamsais
+email:		sathish26586@gmail.com
 
 paginate:         5
 
