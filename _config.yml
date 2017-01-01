@@ -5,7 +5,6 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
-
 # Setup
 title:            Sathish Kumar
 tagline:          'I am Sathish'
@@ -21,9 +20,8 @@ author:
 twitter:
   url:		  https://twitter.com/iamsais
 
-facebook
+facebook:
   url:		  https://www.facebook.com/iamsize
-
 
 paginate:         5
 
