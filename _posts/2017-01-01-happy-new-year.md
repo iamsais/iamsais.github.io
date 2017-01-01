@@ -8,7 +8,7 @@ A wonderful awesome year 2016 and awesomatic year 2017 ahead.
 This is my first personal blog, and I'm very happy to share my happiness of year 2016. In 2016, i had both success and failure, which taugh me many important things. Had a big curve of up and down all my life, but the year 2016 is very special.
 
 Started using Google more efficiently,..
-I had opportunity to search and learn something about Machine learning, DevOps, Automation Process, Groovy... Hahaha... Indian and World Politics, Social media, Fidel Castro, Syria Crisis, Qatar Cruelty, Burma Muslim killing, Jallikattu, UPI,... Elon Musk, SpaceX, Mission Mars, Theory of Relativity, GOD, Gravity... On the whole got addicted to :)
+I had opportunity to search and learn something about Machine learning, DevOps, Automation Process, Groovy, IoT... Hahaha... Indian and World Politics, Social media, Fidel Castro, Syria Crisis, Qatar Cruelty, Burma Muslim killing, Jallikattu, UPI,... Elon Musk, SpaceX, Mission Mars, Theory of Relativity, GOD, Gravity... On the whole got addicted to :)
 
 And my learning curve didn't stop here,
 I got married in 2016 and started learning about my wife's mind :) A Complex subject ;)... But A very happy married life. Some say marriage's are made in heaven, and it really happened for me.
