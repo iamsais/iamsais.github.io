@@ -16,7 +16,14 @@ baseurl:          /
 author:
   name:           'Sathish'
   url:            https://twitter.com/iamsais
-email:		sathish26586@gmail.com
+  email:		sathish26586@gmail.com
+
+twitter:
+  url:https://twitter.com/iamsais
+
+facebook
+  url:https://www.facebook.com/iamsize
+
 
 paginate:         5
 
