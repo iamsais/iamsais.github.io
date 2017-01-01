@@ -11,7 +11,7 @@ title:            Sathish Kumar
 tagline:          'I am Sathish'
 description:      'My Personal Blog'
 url:              http://www.iamsais.com
-baseurl:          /myblog-iamsais/
+baseurl:          /
 
 author:
   name:           'Sathish'
